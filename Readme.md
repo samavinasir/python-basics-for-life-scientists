@@ -67,7 +67,6 @@ print(f"RNA Sequence: {rna_seq}")
 print(f"GC Content: {gc_content:.2f}%")
 
 ```
-
 ---
 
 ## 💻 Setup & Environment Installation
@@ -78,7 +77,6 @@ git clone [https://github.com/your-username/python-basics-for-life-scientists.gi
 cd python-for-life-scientists
 
 ```
-
 
 2. **Create and activate a virtual environment:**
 ```bash
@@ -102,30 +100,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Suggested Directory Structure
-
-```text
-python-for-life-scientists/
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── chapters/
-│   ├── 01_introduction.md
-│   ├── 02_python_basics.md
-│   ├── 03_operations.md
-│   ├── 04_control_flow.md
-│   ├── 05_functions.md
-│   ├── 06_data_structures.md
-│   └── 07_bioinformatics.md
-└── code_examples/
-    └── sample_scripts.py
-
-```
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. Feel free to use, adapt, and distribute for educational or research purposes.
-
-```
