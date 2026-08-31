@@ -36,16 +36,15 @@ Whether you are a wet-lab biologist transitioning to computational research, a s
 
 ## 🗂️ Module Outline
 
-| Chapter | Source File | Core Topics Covered | Practical Life Science Applications |
+| Chapter | Markdown Source | Interactive Colab Notebook | Key Life Science Applications |
 | :--- | :--- | :--- | :--- |
-| **01** | [`01_introduction.md`](./chapters/01_introduction.md) | Python history, Py2 vs Py3, execution lifecycle (PVM/AST), ecosystem overview | Setting up Python environment, introduction to PySam, Biopython & DeepChem |
-| **02** | [`02_python_basics.md`](./chapters/02_python_basics.md) | Comments, structural indentation rules, variables, dynamic typing, user input | Calculating exponential DNA amplification from PCR inputs |
-| **03** | [`03_operations.md`](./chapters/03_operations.md) | Arithmetic, assignment, relational, logical operators, and the Walrus operator (`:=`) | Evaluating patient BMI, glucose ranges, clinical trial screening, & enzyme thresholds |
-| **04** | [`04_control_flow.md`](./chapters/04_control_flow.md) | Decision logic (`if-elif-else`), `for` loops, and `while` loops | Cholesterol classification, patient BMI triage, & tracking simulated cell growth |
-| **05** | [`05_functions.md`](./chapters/05_functions.md) | Function definitions (`def`), argument passing, built-in functions, and `lambda` expressions | Modularizing calculations (BMI, concentration adjustments) & sequence length checks |
-| **06** | [`06_data_structures.md`](./chapters/06_data_structures.md) | Lists, tuples, dictionaries, sets, mutation mechanics, and mathematical set logic | Codon-to-amino acid translation maps, expression arrays, and unique DNA base extraction |
-| **07** | [`07_bioinformatics.md`](./chapters/07_bioinformatics.md) | Math modeling, string manipulation, package management (`pip`), virtual environments, Biopython, Matplotlib | FASTA parsing (`SeqIO`), DNA-to-RNA transcription, GC-content calculations, & bacterial growth plotting |
-
+| **01** | [`01_introduction.md`](./chapters/01_introduction.md) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samavinasir/python-basics-for-life-scientists/blob/main/notebooks/01_introduction.ipynb) | PySam, Biopython, DeepChem setup & execution lifecycle |
+| **02** | [`02_python_basics.md`](./chapters/02_python_basics.md) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samavinasir/python-basics-for-life-scientists/blob/main/notebooks/02_python_basics.ipynb) | Calculating exponential DNA amplification from PCR inputs |
+| **03** | [`03_operations.md`](./chapters/03_operations.md) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samavinasir/python-basics-for-life-scientists/blob/main/notebooks/03_operations.ipynb) | Evaluating patient BMI, glucose thresholds, & enzyme logic |
+| **04** | [`04_control_flow.md`](./chapters/04_control_flow.md) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samavinasir/python-basics-for-life-scientists/blob/main/notebooks/04_control_flow.ipynb) | Cholesterol classification & tracking cell growth loops |
+| **05** | [`05_functions.md`](./chapters/05_functions.md) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samavinasir/python-basics-for-life-scientists/blob/main/notebooks/05_functions.ipynb) | Modularizing BMI tools & sequence length evaluation |
+| **06** | [`06_data_structures.md`](./chapters/06_data_structures.md) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samavinasir/python-basics-for-life-scientists/blob/main/notebooks/06_data_structures.ipynb) | Codon maps, expression vectors, & unique DNA base extraction |
+| **07** | [`07_bioinformatics.md`](./chapters/07_bioinformatics.md) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samavinasir/python-basics-for-life-scientists/blob/main/notebooks/07_bioinformatics.ipynb) | FASTA parsing, DNA-to-RNA conversion, & bacterial growth plotting |
 ---
 
 ## ⚡ Quickstart Code Example
