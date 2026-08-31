@@ -73,7 +73,7 @@ print(f"GC Content: {gc_content:.2f}%")
 
 1. **Clone this repository:**
 ```bash
-git clone [https://github.com/your-username/python-basics-for-life-scientists.git](https://github.com/your-username/python-basics-for-life-scientists.git)
+git clone https://github.com/samavinasir/python-basics-for-life-scientists.git
 cd python-for-life-scientists
 
 ```
