@@ -75,7 +75,6 @@ print(f"GC Content: {gc_content:.2f}%")
 ```bash
 git clone https://github.com/samavinasir/python-basics-for-life-scientists.git
 cd python-for-life-scientists
-
 ```
 
 2. **Create and activate a virtual environment:**
@@ -88,14 +87,12 @@ source env/bin/activate
 
 # Activate on Windows:
 env\Scripts\activate
-
 ```
 
 
 3. **Install dependencies:**
 ```bash
 pip install -r requirements.txt
-
 ```
 
 ---
