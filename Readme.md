@@ -10,6 +10,23 @@ Traditional programming courses often rely on abstract examples like managing sh
 
 Whether you are a wet-lab biologist transitioning to computational research, a student learning data analysis, or a researcher aiming to automate daily workflows, this guide provides a structured foundation.
 
+<details>
+<summary><b>🖼️ Browse all 6 slides</b></summary>
+<br />
+
+<div align="center">
+
+<img src="assets\slide-1.png" alt="Slide 1" width="48%" />
+<img src="assets\slide-2.png" alt="Slide 2" width="48%" />
+<img src="assets\slide-3.png" alt="Slide 3" width="48%" />
+<img src="assets\slide-4.png" alt="Slide 4" width="48%" />
+<img src="assets\slide-5.png" alt="Slide 5" width="48%" />
+<img src="assets\slide-6.png" alt="Slide 6" width="48%" />
+
+</div>
+
+</details>
+
 ---
 
 ## 🎯 Target Audience
